@@ -1,5 +1,6 @@
 # :speech_balloon: telegram-servermanager
-Run shell commands on a linux host from a telegram bot.
+Run shell commands on a linux host from a telegram bot.  
+**Blog post** on torminal.com: [telegram-servermanager](https://torminal.com/posts/telegram-servermanager/).
 
 ## Description
 This project gives you the possibility to **run shell commands** on a linux host from a telegram bot.  
